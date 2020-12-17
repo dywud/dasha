@@ -1,0 +1,12 @@
+F:\ИС1-41\МДК 03.02\library\library\bin\Debug\library.dll
+F:\ИС1-41\МДК 03.02\library\library\bin\Debug\library.pdb
+F:\ИС1-41\МДК 03.02\library\library\obj\Debug\library.csprojAssemblyReference.cache
+F:\ИС1-41\МДК 03.02\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+F:\ИС1-41\МДК 03.02\library\library\obj\Debug\library.dll
+F:\ИС1-41\МДК 03.02\library\library\obj\Debug\library.pdb
+D:\IS1-41\library\library\bin\Debug\library.dll
+D:\IS1-41\library\library\bin\Debug\library.pdb
+D:\IS1-41\library\library\obj\Debug\library.csprojAssemblyReference.cache
+D:\IS1-41\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+D:\IS1-41\library\library\obj\Debug\library.dll
+D:\IS1-41\library\library\obj\Debug\library.pdb

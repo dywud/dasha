@@ -1,0 +1,32 @@
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\library.Tests.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\library.Tests.pdb
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\library.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\library.pdb
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\ИС1-41\МДК 03.02\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\ИС1-41\МДК 03.02\library\library.Tests\obj\Debug\library.Tests.csprojAssemblyReference.cache
+F:\ИС1-41\МДК 03.02\library\library.Tests\obj\Debug\library.Tests.csproj.CoreCompileInputs.cache
+F:\ИС1-41\МДК 03.02\library\library.Tests\obj\Debug\library.Tests.csproj.CopyComplete
+F:\ИС1-41\МДК 03.02\library\library.Tests\obj\Debug\library.Tests.dll
+F:\ИС1-41\МДК 03.02\library\library.Tests\obj\Debug\library.Tests.pdb
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IS1-41\library\library.Tests\bin\Debug\library.Tests.dll
+D:\IS1-41\library\library.Tests\bin\Debug\library.Tests.pdb
+D:\IS1-41\library\library.Tests\bin\Debug\library.dll
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IS1-41\library\library.Tests\bin\Debug\library.pdb
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IS1-41\library\library.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IS1-41\library\library.Tests\obj\Debug\library.Tests.csprojAssemblyReference.cache
+D:\IS1-41\library\library.Tests\obj\Debug\library.Tests.csproj.CoreCompileInputs.cache
+D:\IS1-41\library\library.Tests\obj\Debug\library.Tests.csproj.CopyComplete
+D:\IS1-41\library\library.Tests\obj\Debug\library.Tests.dll
+D:\IS1-41\library\library.Tests\obj\Debug\library.Tests.pdb
